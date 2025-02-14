@@ -23,10 +23,10 @@ A simple web app that allows users to pick colors, view their HEX codes, and sav
 
 # How to Run
 
-1 Clone the repository:
+1 - Clone the repository:
 
 `git clone https://github.com/your-username/color-picker-app.git`
 
-2️ Open `index.html` in your browser.
+2️ - Open `index.html` in your browser.
 
-3️ Start selecting and saving colors!
+3️ - Start selecting and saving colors!
